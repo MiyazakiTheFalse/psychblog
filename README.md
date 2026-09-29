@@ -25,3 +25,13 @@ The purpose is to make prior and transferable competence inspectable and reprodu
 - [Level 6 empirical-project readiness](level-6/empirical-project-readiness.md)
 
 These files connect the practical demonstrations to the Level 4, Level 5 and Level 6 RPL evidence folders. They preserve a strict boundary between demonstrated competency/readiness and completed empirical research.
+
+
+## Additional practical competency demonstrations
+
+- [Psychometrics](psychometrics/README.md)
+- [Preregistration and open-science template](open-science/preregistration-template.md)
+- [Laboratory-method competency](lab-methods/laboratory-method-competency.md)
+- [SPSS/NVivo evidence capture checklist](docs/SPSS_NVIVO_EVIDENCE_CAPTURE_CHECKLIST.md)
+
+The psychometrics folder includes a synthetic dataset, SPSS syntax and a Python cross-check. These are designed to produce assessor-facing software outputs without using real participant data.
