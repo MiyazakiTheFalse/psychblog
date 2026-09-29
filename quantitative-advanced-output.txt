@@ -1,0 +1,43 @@
+ADVANCED QUANTITATIVE PSYCHOLOGY DEMONSTRATION
+====================================================
+N = 30
+
+Missingness
+participant_id      0
+self_efficacy       0
+procrastination     0
+study_hours         0
+employment_hours    0
+selfeff_item1       0
+selfeff_item2       0
+selfeff_item3       0
+
+Descriptives
+       self_efficacy  procrastination  study_hours  employment_hours
+count          30.00            30.00        30.00             30.00
+mean           69.17            35.23        15.30             12.43
+std            10.84            12.64         4.22              5.56
+min            50.00            17.00         8.00              4.00
+25%            60.25            24.50        12.00              8.00
+50%            69.50            33.50        15.50             12.00
+75%            77.75            44.50        18.00             16.75
+max            88.00            60.00        23.00             24.00
+
+Cronbach alpha for 3 synthetic self-efficacy items: 0.948
+
+Pearson correlation self-efficacy vs procrastination: r=-0.991, p=1.02986e-25
+Welch t-test (demonstration only): t=-8.170, p=2.28696e-08, Cohen d=-2.983
+
+Multiple regression: procrastination ~ self-efficacy + study_hours + employment_hours
+Intercept          B=  40.669 SE= 13.794 t=  2.948 p=0.00667021
+self_efficacy      B=  -0.193 SE=  0.287 t= -0.671 p=0.507914
+study_hours        B=  -0.635 SE=  0.676 t= -0.940 p=0.355852
+employment_hours   B=   1.416 SE=  0.243 t=  5.832 p=3.80185e-06
+R^2 = 0.992
+
+Shapiro-Wilk residual check: W=0.980, p=0.8343
+Note: assumption checks are interpreted alongside plots, design and sample size.
+
+Saved advanced_scatter.png and residual_plot.png
+
+BOUNDARY: synthetic data only; this demonstrates analysis competence, not participant research.

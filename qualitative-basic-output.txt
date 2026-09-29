@@ -1,0 +1,17 @@
+Participants: 5
+Coding rows: 10
+
+Candidate theme coverage:
+- Action becomes easier once the task becomes concrete: 2 coded excerpts
+- Avoidance regulates immediate discomfort: 5 coded excerpts
+- Uncertainty makes starting feel unsafe: 3 coded excerpts
+
+Audit by participant:
+A: task feels overwhelming, preference for easier activity
+B: uncertainty about expectations, waiting for clarity
+C: fear of poor performance, anticipatory anxiety
+D: need for specific structure, ambiguity inhibits action
+E: productive avoidance, emotion regulation through alternative activity
+
+Interpretive boundary:
+This script validates and summarises manually specified coding. It does not infer themes.

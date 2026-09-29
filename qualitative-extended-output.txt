@@ -1,0 +1,22 @@
+EXTENDED QUALITATIVE AUDIT
+========================================
+Sources: 18
+Coding records: 18
+
+Candidate themes (audit counts only, not prevalence):
+- Structure changes the action environment: 5
+- Delay is not always procrastination: 4
+- Avoidance regulates immediate discomfort: 3
+- Evaluation threat shapes initiation: 3
+- Uncertainty makes starting feel unsafe: 2
+- Action changes internal state: 1
+
+Negative/complicating cases deliberately retained:
+- P05: Paid work comes first some weeks. I would not call that procrastination because I am choosing rent over an essay.
+- P08: Sometimes I delay deliberately because I know I need time to think. Starting immediately is not always better for me.
+- P11: My caring responsibilities are unpredictable, so the timetable other students use does not always fit my week.
+- P15: Sometimes I submit close to the deadline because I keep improving things. The delay is not always avoidance.
+
+Audit trail integrity:
+All coded participant IDs resolve to a source excerpt.
+Interpretation remains manual; this script does not generate themes.

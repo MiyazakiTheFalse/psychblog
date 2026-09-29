@@ -1,0 +1,7 @@
+Domains reviewed: 15
+Domains requiring human attention: 2
+- assent_parental_arrangements: review_required | Institution-specific requirements must be determined
+- ethics_approval: no | Formal institutional approval not obtained for this fictional exercise
+
+Boundary:
+This tool checks documentation completeness only. It does not make ethical judgments or grant approval.
