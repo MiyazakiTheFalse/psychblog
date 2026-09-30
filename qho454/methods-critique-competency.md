@@ -1,17 +1,34 @@
 # QHO454 Methods Critique Competency Framework
 
-This document mirrors the five headings required by the released QHO454 Task 1 and records the analytical questions that should be applied to any methods section.
+This file mirrors the five headings required by the released QHO454 Task 1 and converts the marking criteria into an explicit quality gate.
+
+## Top-band target
+
+A strong critique must do more than list faults. It should:
+
+- select the important methodological deficiencies;
+- identify all major deficiencies across the supplied Methods section;
+- explain why each matters;
+- give correct and convincing corrections;
+- remain organised, clear and succinct.
+
+Use this structure for each substantive point:
+
+**Issue → why it matters → specific improvement**
 
 ## Design
 
 Check whether:
 
-- the stated design matches the actual procedure;
-- variables are described at the correct measurement level;
-- independent/predictor and dependent/outcome variables are identified correctly;
+- the stated design matches the procedure;
+- variables/conditions are identified correctly;
+- outcome and grouping/predictor variables are represented correctly;
+- measurement levels are understood;
 - between-participants, within-participants, correlational or observational terminology is appropriate;
-- the planned analysis is compatible with the design and variable structure;
+- the proposed statistical comparison matches the design;
 - causal claims are avoided where the design does not support them.
+
+High-mark check: do not merely rename the design; explain how an incorrect design description affects interpretation or analysis and give the correct formulation.
 
 ## Participants
 
@@ -19,16 +36,18 @@ Check whether reporting is sufficient to evaluate the sample and reproduce recru
 
 - sample size;
 - recruitment route;
-- inclusion/exclusion criteria;
-- age range and relevant descriptive statistics;
-- sex/gender and other relevant characteristics;
-- compensation or participation credit;
+- inclusion/exclusion or eligibility criteria;
+- age and other relevant participant characteristics;
+- sex/gender and other characteristics where material;
+- compensation/participation credit where relevant;
 - allocation/classification method where applicable;
-- whether the sample creates obvious generalisability limitations.
+- generalisability limitations.
+
+High-mark check: distinguish a missing descriptive detail from a limitation that changes what can reasonably be inferred from the sample.
 
 ## Materials
 
-Check whether each measure is documented well enough to evaluate measurement quality:
+Check whether **each relevant measure** is documented sufficiently:
 
 - full instrument name;
 - citation/source;
@@ -36,52 +55,63 @@ Check whether each measure is documented well enough to evaluate measurement qua
 - number of items;
 - response scale;
 - scoring method;
-- interpretation of high/low scores;
+- interpretation of scores;
 - reliability;
 - validity;
-- appropriateness for the target population;
+- appropriateness for the population;
 - licensing/permission issues where relevant.
 
-A statement that a measure is "reliable" should be supported by evidence appropriate to the population and construct rather than by a vague quotation.
+Challenge unsupported claims. Evidence that a scale was reliable in another sample does not automatically establish reliability for every population or dataset.
+
+High-mark check: compare the completeness of the descriptions for all measures rather than critiquing only the most obvious one.
 
 ## Procedure
 
 Check whether another researcher could reproduce what happened:
 
-- setting/platform;
-- recruitment and access route;
+- location/platform;
+- recruitment/access route;
 - order of events;
-- consent process;
-- questionnaire/task order;
-- randomisation/counterbalancing;
+- consent;
+- task/questionnaire order;
+- randomisation/counterbalancing where relevant;
 - duration;
 - withdrawal mechanism;
+- ethical approval where it belongs in the reporting structure;
 - debriefing;
-- data handling/participant identifier procedure.
+- data-handling/participant-identifier procedure.
 
-Information should appear in the section where a reader would reasonably expect to find it.
+High-mark check: identify missing procedural detail that would materially prevent replication, not merely wording preferences.
 
 ## Ethical Considerations
 
-Check whether ethical reporting goes beyond a generic statement of compliance:
+Check whether the ethical section goes beyond a generic statement of compliance:
 
-- ethics approval body/reference where appropriate;
+- ethics approval;
 - informed consent;
 - right to withdraw;
 - confidentiality/anonymity or pseudonymity;
-- data minimisation and storage;
-- foreseeable distress or sensitivity;
+- data minimisation/storage;
+- topic sensitivity;
+- foreseeable distress/harm;
 - safeguarding;
 - debriefing;
-- support/signposting where topics may evoke distress;
+- support/signposting;
 - limits of confidentiality where relevant.
 
-## Quality test
+For the supplied exercise, pay particular attention to the sensitivity of questions concerning delinquency and attachment and what safeguards would reduce foreseeable distress or harm.
 
-For each criticism, use a three-part structure:
+High-mark check: explain the risk, not just the missing policy statement, and propose a practical safeguard.
 
-1. identify the issue;
-2. explain why it matters for quality, clarity, validity or replicability;
-3. state a specific improvement.
+## Final critique quality gate
 
-This prevents critique from becoming a list of stylistic preferences and keeps it anchored to research quality.
+Do not consider the demonstration complete unless:
+
+- [ ] all five required headings are covered;
+- [ ] all major deficiencies have been considered;
+- [ ] important issues are prioritised over trivial edits;
+- [ ] every major criticism explains why it matters;
+- [ ] every major criticism includes a specific correction;
+- [ ] proposed corrections are methodologically convincing;
+- [ ] writing is concise and clearly structured;
+- [ ] APA 7 conventions are followed where external evidence is used.
