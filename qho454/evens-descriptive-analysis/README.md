@@ -2,17 +2,17 @@
 
 ## Purpose
 
-This directory is structured around the released QHO454 Task 2 requirements using the EVENS 2021 variable names.
+This directory targets the released QHO454 Task 2 requirements and the marking criteria used to judge descriptive statistics and displays.
 
-The task requires three descriptive analyses, each comparing one specified outcome across one permitted grouping variable.
+The target is not merely to make SPSS produce output. Each analysis must show that the statistical choice, interpretation and presentation are appropriate.
 
-## Required outcomes
+## Required analyses
 
 ### Analysis 1
 
-`willvacc` — likelihood of having a coronavirus vaccine
+Outcome: `willvacc`
 
-Permitted grouping variables:
+Choose one grouping variable:
 
 - `age`
 - `religion`
@@ -20,9 +20,9 @@ Permitted grouping variables:
 
 ### Analysis 2
 
-`wwb.total.NEW` — CES-D8 total score
+Outcome: `wwb.total.NEW` — CES-D8 total
 
-Permitted grouping variables:
+Choose one grouping variable:
 
 - `sex`
 - `age`
@@ -30,36 +30,85 @@ Permitted grouping variables:
 
 ### Analysis 3
 
-`polstop` — stopped by police since Covid
+Outcome: `polstop`
 
-Permitted grouping variables:
+Choose one grouping variable:
 
 - `sex`
 - `age`
 - `ethnicity`
 
-## Workflow
+## Marking-criteria workflow
 
-1. Open the released EVENS `.sav` file in SPSS.
-2. Inspect variable labels, value labels, missing-value coding and measurement level.
-3. Choose one permitted grouping variable for each outcome.
-4. Select descriptive statistics appropriate to the outcome and grouping variable.
-5. Produce one appropriate table or graph per analysis.
-6. Check that missing values are handled consistently with the dataset coding.
-7. Summarise the observed similarities/differences without making causal claims.
-8. Save SPSS syntax/output as evidence of the workflow.
+For each analysis:
 
-## Evidence to capture
+1. Inspect variable labels, value labels, declared missing values and measurement levels.
+2. Use exactly one permitted grouping variable.
+3. Select descriptive statistics appropriate to the variable types and comparison.
+4. Do not report irrelevant statistics simply because SPSS generated them.
+5. Produce exactly one appropriate table or graph.
+6. Check whether unequal group sizes make raw-count displays misleading.
+7. Check missing-value handling and denominator size.
+8. Describe the substantive similarity/difference in the data.
+9. Show insight rather than merely restating output values.
+10. Do not make causal claims from descriptive group differences.
 
-Useful portfolio evidence includes:
+## Top-band quality gate
 
-- Variable View showing the relevant variables and value labels.
-- Data View with the EVENS file open.
-- SPSS syntax used for each analysis.
-- Output Viewer showing descriptive statistics.
-- Output Viewer showing the table/graph.
-- A short interpretation note explaining why that display/statistic is appropriate.
+### Statistics
+
+- [ ] informative;
+- [ ] appropriate;
+- [ ] relevant;
+- [ ] accurate;
+- [ ] correctly reported;
+- [ ] interpreted with insight.
+
+### Display
+
+- [ ] appropriate for the comparison;
+- [ ] accurate;
+- [ ] clearly labelled;
+- [ ] cleanly formatted;
+- [ ] consistent with the supplied reporting conventions;
+- [ ] free of unnecessary SPSS clutter.
+
+### Missing data and group sizes
+
+- [ ] dataset missing-value codes checked;
+- [ ] participants not manually deleted simply for missing one variable;
+- [ ] analysis denominators understood;
+- [ ] percentages/normalised comparisons used where unequal group sizes would make counts misleading.
+
+## Presentation controls for submission-shaped artefacts
+
+- mention the table/figure before it appears;
+- maintain separate sequential numbering for tables and figures;
+- place number and concise title above the display;
+- use bold number and italic title;
+- avoid surrounding border boxes;
+- remove unnecessary cumulative percentages;
+- remove unnecessary vertical lines in copied SPSS tables;
+- avoid redundant statistics tables when key values are already reported in prose;
+- use clean copied/exported output rather than screenshot images.
+
+## RPL evidence capture
+
+Native screenshots remain useful to prove software operation:
+
+- Variable View;
+- Data View;
+- Syntax Editor;
+- Output Viewer statistics;
+- Output Viewer graph/table.
+
+Also retain:
+
+- saved `.sps` syntax;
+- saved SPSS output where possible;
+- a short rationale explaining the statistic/display selection;
+- a short interpretation note for each comparison.
 
 ## Reproducibility
 
-The accompanying `analysis_template.sps` provides a syntax-first structure. It deliberately requires the local EVENS file path and chosen grouping variables to be set before execution.
+The accompanying `analysis_template.sps` provides the syntax-first framework. It deliberately requires the actual EVENS file path and final grouping-variable choices before execution.
